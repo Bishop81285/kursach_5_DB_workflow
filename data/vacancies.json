@@ -1,0 +1,1979 @@
+[
+    {
+        "id": "85893881",
+        "premium": false,
+        "name": "Ревьюер курса \"Бизнес-аналитик\"",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-11T13:58:53+0300",
+        "created_at": "2023-09-11T13:58:53+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85893881",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/85893881?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/85893881",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы бизнес-аналитиком от 2-3 лет. Владение инструментарием (чем больше — тем лучше): BPMN, UML, SQL, Figma, Jira, Confluence...",
+            "responsibility": "Проверяет работы студентов и решает, зачесть задание или нет."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "150",
+                "name": "Бизнес-аналитик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "85893930",
+        "premium": false,
+        "name": "Наставник курса \"Бизнес-аналитик\"",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-11T13:58:44+0300",
+        "created_at": "2023-09-11T13:58:44+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85893930",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/85893930?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/85893930",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Действующий бизнес-аналитик с опытом от 3-х лет. Владеете интструментарием (чем больше - тем лучше): BPMN, UML, SQL, Figma, Jira...",
+            "responsibility": "Отвечает на вопросы из предметной области, поддерживает и помогает справляться с трудностями во время прохождения курса. Проводит групповые вебинары."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "150",
+                "name": "Бизнес-аналитик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "86602989",
+        "premium": false,
+        "name": "Автор курса \"Системный аналитик\" в Яндекс Практикум",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-12T12:41:42+0300",
+        "created_at": "2023-09-12T12:41:42+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86602989",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/86602989?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/86602989",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Что понадобится для работы над курсом:",
+            "responsibility": "Что делает автор? Создаёт материалы для новых курсов в команде с другими авторами, методистами, редакторами, иллюстраторами и продактами программы. "
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "148",
+                "name": "Системный аналитик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "85691637",
+        "premium": false,
+        "name": "Автор на курс по SMM",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-04T16:56:03+0300",
+        "created_at": "2023-09-04T16:56:03+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85691637",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/85691637?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/85691637",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Логическое и структурное мышление. Опыт создания текстов, написания статей. Терпение, невозмутимость и умение работать с фидбеком: редко получается с первого...",
+            "responsibility": "Cоздавать тексты уроков и придумывать их оформление. Улучшать контент, работать с обратной связью от студентов, наставников и команды. "
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "3",
+                "name": "SMM-менеджер, контент-менеджер"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83695126",
+        "premium": false,
+        "name": "Наставник на курсы для подростков по Web-разработке",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-12T12:12:40+0300",
+        "created_at": "2023-09-12T12:12:40+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83695126",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83695126?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83695126",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы от полугода. Опыт с Node.js, Express.js, MongoDB. Владение актуальными подходами к вёрстке на HTML и CSS. ",
+            "responsibility": "Помогает в освоении контента курса (в рамках вебинаров, Q&A, встречах со студентами, ответов на вопросы и общения в чатах..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "86562913",
+        "premium": false,
+        "name": "Автор на курс «SQL для работы с данными и аналитики»",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-11T17:16:26+0300",
+        "created_at": "2023-09-11T17:16:26+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86562913",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/86562913?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/86562913",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Аналитик или инженер данных с опытом работы от 3 лет. Используете SQL более 3 лет. Работаете с PostgreSQL больше года. ",
+            "responsibility": "Вместе с методистом продумывать программу курса: менять содержание существующих тем, продумывать наполнение новых. Готовить материал уроков, придумывать задания и проекты..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "10",
+                "name": "Аналитик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "85669204",
+        "premium": false,
+        "name": "Наставник курса «SQL для разработки»",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-11T11:48:55+0300",
+        "created_at": "2023-09-11T11:48:55+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85669204",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/85669204?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/85669204",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Имеете опыт работы с базами данных и SQL не менее 1 года. Имеете опыт работы с PostgreSQL не менее 1...",
+            "responsibility": "Наставник на курсе “SQL для разработки” проводит групповые вебинары с периодичностью 1-2 раза в месяц, а также отвечает на..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "86281274",
+        "premium": false,
+        "name": "Автор курса \"Управление командой IT разработки\" в Яндекс Практикум",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-05T16:11:45+0300",
+        "created_at": "2023-09-05T16:11:45+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86281274",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/86281274?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/86281274",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Разработчики, которые планируют стать руководителями в ближайшей перспективе (нулевой опыт). Руководители команд разработки с небольшим опытом (до 3-х лет). ",
+            "responsibility": "Создаёт материалы для новых курсов в команде с другими авторами, методистами, редакторами, иллюстраторами и продактами программы. Пишет тексты уроков, в..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "104",
+                "name": "Руководитель группы разработки"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "moreThan6",
+            "name": "Более 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "86119125",
+        "premium": false,
+        "name": "Ревьюер курса \"1C-аналитик\"",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-12T01:44:26+0300",
+        "created_at": "2023-09-12T01:44:26+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86119125",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/86119125?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/86119125",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Действующий 1С-аналитик или функциональный архитектор с опытом от 3-х лет. Понимание жизненного цикла проекта и роли 1...",
+            "responsibility": "Проверяет работы студентов и решает, зачесть задание или нет. Участвовали в проектах внедрения с командой от 4-х человек."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "10",
+                "name": "Аналитик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83781550",
+        "premium": false,
+        "name": "Автор курса \"Контент-маркетолог\" в Яндекс Практикум",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-01T14:02:06+0300",
+        "created_at": "2023-09-01T14:02:06+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83781550",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83781550?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83781550",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Логическое и структурное мышление. Опыт создания текстов, написания статей. Терпение, невозмутимость и умение работать с фидбеком: редко получается с первого...",
+            "responsibility": "Создает материалы для новых курсов в команде с другими авторами, методистами, редакторами, иллюстраторами и продактами программы. Пишет тексты уроков, в..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "3",
+                "name": "SMM-менеджер, контент-менеджер"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83700381",
+        "premium": false,
+        "name": "Наставник курса \"Android-разработчик\"",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-08-31T10:17:50+0300",
+        "created_at": "2023-08-31T10:17:50+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83700381",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83700381?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83700381",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт разработки мобильных приложения для Android от 3-х лет. Понимание, что такое Git, Computer science, SOLID, Android SDK, Clean...",
+            "responsibility": "Помогает в освоении контента курса (в рамках вебинаров, Q&A, ответов на вопросы и общения в чатах). Учит студентов находить..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "85247286",
+        "premium": false,
+        "name": "Наставник на курсы для подростков по Python-разработке",
+        "department": null,
+        "has_test": true,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-08-18T13:39:53+0300",
+        "created_at": "2023-08-18T13:39:53+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85247286",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/85247286?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/85247286",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт разработки на Python от полугода. Опыт проектирования API будет плюсом. Опыт создания ботов для Telegram. Практический интерес к нейросетям...",
+            "responsibility": "Помогает в освоении контента курса (в рамках вебинаров, Q&A, встречах со студентами, ответов на вопросы и общения в чатах..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "85234687",
+        "premium": false,
+        "name": "Автор курса «Специалист по информационной безопасности»",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-01T14:02:06+0300",
+        "created_at": "2023-09-01T14:02:06+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85234687",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/85234687?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/85234687",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт проведения пентестов, понимание методологии, умение находить, эксплуатировать, объяснять и устранять основные веб-уязвимости. Уверенное владение всем необходимым инструментарием (Burp...",
+            "responsibility": "Создаёт материалы для новых курсов в команде с другими авторами, методистами, редакторами, иллюстраторами и продактами программы. Пишет тексты уроков, в..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "116",
+                "name": "Специалист по информационной безопасности"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "85952521",
+        "premium": false,
+        "name": "Автор курса «Линейные модели для задач регрессии и классификации (базовый ML)»",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": true,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-08-29T14:21:50+0300",
+        "created_at": "2023-08-29T14:21:50+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85952521",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/85952521?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/85952521",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Метрики в задаче классификации. 2. А также иметь опыт работы в качестве Data Scientist/Machine Learning Engineer от 2х...",
+            "responsibility": "Что делает автор? С методистом описывает образовательные результаты курса, модулей и уроков. Пишет входной и выходной ассессменты (в формате тестирований..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "10",
+                "name": "Аналитик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83636747",
+        "premium": false,
+        "name": "Код-ревьюер курса \"Мидл python-разработчик\" в Яндекс Практикум",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": true,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-11T11:32:41+0300",
+        "created_at": "2023-09-11T11:32:41+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83636747",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83636747?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83636747",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "В курсе предусмотрено выполнение студентами самостоятельных проектов, которые проверяет, оценивает и комментирует команда код-ревьюеров. Их комментарии — один из важных...",
+            "responsibility": "Проверяет написанный студентом код и даёт обратную связь. Именно код-ревьюер решает: зачесть задание или нет. А ещё он даёт..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83781623",
+        "premium": false,
+        "name": "Автор курса \"1С Аналитик\" в Яндекс Практикум",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-01T14:02:06+0300",
+        "created_at": "2023-09-01T14:02:06+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83781623",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83781623?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83781623",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Желание делиться знаниями и опытом, рассказывать сложное доступно и понятно. Так, чтобы вас поняли люди без опыта таких технологиях. ",
+            "responsibility": "Создает материалы для новых курсов в команде с другими авторами, методистами, редакторами, иллюстраторами и продактами программы. Пишет тексты уроков, в..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "150",
+                "name": "Бизнес-аналитик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "84878727",
+        "premium": false,
+        "name": "Ревьюер курса “Архитектор программного обеспечения”",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-12T01:44:29+0300",
+        "created_at": "2023-09-12T01:44:29+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84878727",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/84878727?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/84878727",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Обладаете сильными навыками и опытом по бэкенд-разработке, а также можете оценить целостное архитектурное решение. Знаете что такое логирование, мониторинг...",
+            "responsibility": "Студенты учатся на платформе, выполняют домашние и проектные работы, которые проверяет, оценивает и комментирует команда специалистов. Роль ревьюера в этом..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83664921",
+        "premium": false,
+        "name": "Автор на курс «Моушн-дизайнер»",
+        "department": null,
+        "has_test": true,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-11T09:46:01+0300",
+        "created_at": "2023-09-11T09:46:01+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83664921",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83664921?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83664921",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Пишет тексты для уроков онлайн-учебника. Совместно с редакторами, экспертами и методистами грамотно, понятно и интересно описывает теорию и практические...",
+            "responsibility": "Что делает автор? Разрабатывает практические задания и квизы, а также промежуточные и выпускные проекты для студентов. Небольшую дружную команду, которая..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "34",
+                "name": "Дизайнер, художник"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83698449",
+        "premium": false,
+        "name": "Наставник на курс \"DevOps для эксплуатации и разработки\"",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-04T19:15:21+0300",
+        "created_at": "2023-09-04T19:15:21+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83698449",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83698449?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83698449",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Желание делиться знаниями и опытом с миром. Знание, что такое DevOps, зачем он был придуман и при каких обстоятельствах. ",
+            "responsibility": "Ведёт группу студентов (от 30 человек), отвечает на вопросы в мессенджере, следит за успеваемостью группы и каждого студента в ней. "
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "86185053",
+        "premium": false,
+        "name": "Автор ассессментов на курсы по Системному анализу",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-11T09:21:01+0300",
+        "created_at": "2023-09-11T09:21:01+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86185053",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/86185053?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/86185053",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "TCP/IP. HTTP/HTTPS. XML. JSON. Синхронный и асинхронный режимы взаимодействия. SOAP. REST. Диаграмма последовательности (UML Sequence Diagram). ",
+            "responsibility": "Описание процессов в нотациях BPMN и UML. Проектирование программных интерфейсов. С методистом описывает образовательные результаты курса, модулей и уроков. "
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "148",
+                "name": "Системный аналитик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83638211",
+        "premium": false,
+        "name": "Автор на курс «SQL для разработки» в Яндекс Практикум",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-08-31T12:35:34+0300",
+        "created_at": "2023-08-31T12:35:34+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83638211",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83638211?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83638211",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт бекенд-разработки от 3 лет. Опыт работы с базами данных и SQL не менее 3-х лет. ",
+            "responsibility": "Серверное программирование в PostgreSQL (хранимые процедуры и пользовательские функции, основы PL/pgSQL, триггеры). Оптимизация запросов в PostgreSQL. Создаёт материалы для..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "84877772",
+        "premium": false,
+        "name": "Наставник на курс \"Go-разработчик\"",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-12T01:44:33+0300",
+        "created_at": "2023-09-12T01:44:33+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84877772",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/84877772?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/84877772",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Возглавляете команду с джуниор-разработчиками и имеете опыт менторства. Знания Go на уровне Senior, в том числе опыт профилирования и...",
+            "responsibility": "Ведёт группу студентов (от 15 человек), отвечает на вопросы в Слаке, следит за успеваемостью группы и каждого студента в ней. "
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83962115",
+        "premium": false,
+        "name": "Автор курса «Инженер машинного обучения»",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-04T10:51:26+0300",
+        "created_at": "2023-09-04T10:51:26+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83962115",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83962115?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83962115",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Работа с большими данными. Жизненные циклы ML модели, MLOPs, ML System Design.",
+            "responsibility": "Что делает автор? Создает материалы для новых курсов в команде с другими авторами, методистами, редакторами, иллюстраторами и продактами программы. "
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "165",
+                "name": "Дата-сайентист"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83636716",
+        "premium": false,
+        "name": "Наставник курса \"Мидл python-разработчик\" в Яндекс Практикум",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": true,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-11T11:32:37+0300",
+        "created_at": "2023-09-11T11:32:37+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83636716",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83636716?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83636716",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Разработчик middle+ уровня и имеете опыт работы от 3х лет. Умеете доступно и последовательно объяснять тяжёлые темы и задачи...",
+            "responsibility": "Работали с микросервисной архитектурой."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83699270",
+        "premium": false,
+        "name": "Наставник курса “Архитектура программного обеспечения” в Яндекс Практикум",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-12T01:44:21+0300",
+        "created_at": "2023-09-12T01:44:21+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83699270",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83699270?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83699270",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Выступает для студента \"помогающим экспертом\": поддерживает студента и заземляет теорию и практику через свой опыт становления в профессии — в рамках...",
+            "responsibility": "Студенты обучаются на платформе, общаются в общем чате, сдают проектные работы, а на каждом из этих этапов их сопровождает команда..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83648432",
+        "premium": false,
+        "name": "Автор курсов для Android-разработчиков в Грейд (B2B)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-04T10:51:26+0300",
+        "created_at": "2023-09-04T10:51:26+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83648432",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83648432?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83648432",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Имеете опыт работы в разработке от 3-х лет – уровень middle+/senior. Плюс, если есть опыт проектирования архитектуры сервисов. ",
+            "responsibility": "Создает материалы для новых курсов в команде с другими авторами, методистами, редакторами, иллюстраторами и продактами программы. Пишет тексты уроков, в..."
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    },
+    {
+        "id": "83624398",
+        "premium": false,
+        "name": "Автор курсов по Go-разработке",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-09-11T09:45:55+0300",
+        "created_at": "2023-09-11T09:45:55+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83624398",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/83624398?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/83624398",
+        "relations": [],
+        "employer": {
+            "id": "5008932",
+            "name": "Яндекс Практикум",
+            "url": "https://api.hh.ru/employers/5008932",
+            "alternate_url": "https://hh.ru/employer/5008932",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/4044499.png",
+                "240": "https://hhcdn.ru/employer-logo/4044500.png",
+                "original": "https://hhcdn.ru/employer-logo-original/900953.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Коммерческий опыт go-разработки. Опыт написания HTTP- и многопоточных приложений, плюсом будет опыт оптимизации приложений. Опыт работы с базами данных. ",
+            "responsibility": "Что делает автор? Создаёт материалы для новых курсов в команде с другими авторами, методистами, редакторами, иллюстраторами и продактами программы. "
+        },
+        "contacts": null,
+        "schedule": null,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false
+    }
+]

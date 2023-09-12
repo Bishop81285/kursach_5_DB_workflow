@@ -20,23 +20,24 @@ class Vacancy:
         try:
             vacancy = []
 
-            while True:
+            for page in range(0, 10):
+                params = {
+                    "employer_id": f"{self.id_employer}",
+                    "page": page,
+                    'per_page': 20,
+                }
+                data = requests.get(API_URL_HH_2, params=params).json()
+                vacancy.extend(data.get('items'))
+                time.sleep(0.22)
 
-                for page in range(0, 100):
-                    params = {
-                        "employer_id": f"{self.id_employer}",
-                        "page": page,
-                        'per_page': 50,
-                    }
-                    vacancy.extend(requests.get(API_URL_HH_2, params=params).json()['items'])
-                    time.sleep(0.22)
+            with open(self.__file_path, "w", encoding="utf-8") as f:
+                json.dump(vacancy, f, ensure_ascii=False, indent=4)
 
-                with open(self.__file_path, "w", encoding="utf-8") as f:
-                    json.dump(vacancy, f, ensure_ascii=False, indent=4)
+            return vacancy
 
-                return vacancy
         except requests.exceptions.ConnectTimeout:
             print('Oops. Connection timeout occurred!')
+
         except requests.exceptions.ReadTimeout:
             print('Oops. Read timeout occurred')
         except requests.exceptions.ConnectionError:
@@ -49,29 +50,32 @@ class Vacancy:
         """Записывает найденные вакансии с нужными ключами в список словарей"""
         list_vacancy = []
 
-        for i in range(len(self.get_vacancy)):
-            salary_from = 0 if (self.get_vacancy[i]['salary'] is None or self.get_vacancy[i]['salary']['from'] == 0 or
-                                self.get_vacancy[i]['salary']['from'] is None) else self.get_vacancy[i]['salary'][
+        vacancies = self.get_vacancy
+
+        for i in range(len(vacancies)):
+            salary_from = 0 if (vacancies[i]['salary'] is None or vacancies[i]['salary']['from'] == 0 or
+                                vacancies[i]['salary']['from'] is None) else vacancies[i]['salary'][
                 'from']
-            salary_to = 0 if (self.get_vacancy[i]['salary'] is None or self.get_vacancy[i]['salary']['to'] == 0 or
-                              self.get_vacancy[i]['salary']['to'] is None) else self.get_vacancy[i]['salary']['to']
+            salary_to = 0 if (vacancies[i]['salary'] is None or vacancies[i]['salary']['to'] == 0 or
+                              vacancies[i]['salary']['to'] is None) else vacancies[i]['salary']['to']
             info = {
-                'id_vacancy': self.get_vacancy[i].get('id'),
-                'name_vacancy': self.get_vacancy[i].get('name'),
-                'id_employer': 0 if self.get_vacancy[i]['employer']['id'] is None else self.get_vacancy[i]['employer'][
+                'id_vacancy': vacancies[i].get('id'),
+                'name_vacancy': vacancies[i].get('name'),
+                'id_employer': 0 if vacancies[i]['employer']['id'] is None else vacancies[i]['employer'][
                     'id'],
-                'name_employer': "Не указано" if self.get_vacancy[i]['employer']['name'] is None else
+                'name_employer': "Не указано" if vacancies[i]['employer']['name'] is None else
                 self.get_vacancy[i]['employer']['name'],
-                'city': "Не указано" if self.get_vacancy[i]['area']['name'] is None else self.get_vacancy[i]['area'][
+                'city': "Не указано" if vacancies[i]['area']['name'] is None else vacancies[i]['area'][
                     'name'],
                 'salary_from': salary_from,
                 'salary_to': salary_to,
                 'salary_avg': (salary_from if salary_to == 0 else (salary_from + salary_to) / 2) or (
                     salary_to if salary_from == 0 else (salary_to + salary_to) / 2),
-                'experience': self.get_vacancy[i]['experience'].get('name'),
-                'url': self.get_vacancy[i].get('alternate_url'),
-                "requirement": "Не указано" if self.get_vacancy[i]['snippet']['requirement'] else
-                self.get_vacancy[i]['snippet']['requirement'],
+                'experience': vacancies[i]['experience'].get('name'),
+                'url': vacancies[i].get('alternate_url'),
+                "requirement": "Не указано" if vacancies[i]['snippet']['requirement'] else
+                vacancies[i]['snippet']['requirement'],
             }
+
             list_vacancy.append(info)
         return list_vacancy

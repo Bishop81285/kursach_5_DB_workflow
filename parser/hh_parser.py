@@ -20,24 +20,23 @@ class HhParser:
         try:
             employers = []
 
-            while True:
+            params = {
+                "text": f"{self.data}",
+                "area": 1,
+                "only_with_vacancies": True,
+                "pages": 1,
+                "per_page": 20,
+            }
+            employers.extend(requests.get(API_URL_HH_1, params=params).json()["items"])
 
-                for page in range(0, 100):
-                    params = {
-                        "text": f"{self.data}",
-                        "area": 1,
-                        "only_with_vacancies": True,
-                        "pages": 1,
-                        "per_page": 50,
-                    }
-                    employers.extend(requests.get(API_URL_HH_1, params=params).json()["items"])
+            with open(self.__file_path, "w", encoding="utf-8") as f:
+                json.dump(employers, f, ensure_ascii=False, indent=4)
 
-                with open(self.__file_path, "w", encoding="utf-8") as f:
-                    json.dump(employers, f, ensure_ascii=False, indent=4)
+            return employers
 
-                return employers
         except requests.exceptions.ConnectTimeout:
             print('Oops. Connection timeout occurred!')
+
         except requests.exceptions.ReadTimeout:
             print('Oops. Read timeout occurred')
         except requests.exceptions.ConnectionError:

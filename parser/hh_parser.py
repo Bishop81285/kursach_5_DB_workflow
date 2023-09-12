@@ -1,10 +1,14 @@
+import json
+
 import requests
 
-from settings import API_URL_HH_1
+from settings import API_URL_HH_1, DATA_PATH
 
 
 class HhParser:
     """Возвращает работодателей с сайта HeadHunter по ключевому слову"""
+
+    __file_path = str(DATA_PATH) + '/employers.json'
 
     def __init__(self, data: str):
         """Инициализирует класс где data - название по которому будет происходить поиск"""
@@ -15,7 +19,9 @@ class HhParser:
         """Возвращает работодателей с сайта HeadHunter"""
         try:
             employers = []
+
             while True:
+
                 for page in range(0, 100):
                     params = {
                         "text": f"{self.data}",
@@ -25,7 +31,11 @@ class HhParser:
                         "per_page": 50,
                     }
                     employers.extend(requests.get(API_URL_HH_1, params=params).json()["items"])
-                    return employers
+
+                with open(self.__file_path, "w", encoding="utf-8") as f:
+                    json.dump(employers, f, ensure_ascii=False, indent=4)
+
+                return employers
         except requests.exceptions.ConnectTimeout:
             print('Oops. Connection timeout occurred!')
         except requests.exceptions.ReadTimeout:

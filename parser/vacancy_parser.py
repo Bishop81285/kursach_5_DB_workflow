@@ -1,12 +1,15 @@
+import json
 import time
 
 import requests
 
-from settings import API_URL_HH_2
+from settings import API_URL_HH_2, DATA_PATH
 
 
 class Vacancy:
     """Собирает с сайта HeadHunter вакансии по номеру айди работодателя"""
+
+    __file_path = str(DATA_PATH) + '/vacancies.json'
 
     def __init__(self, id_employer):
         self.id_employer = id_employer
@@ -16,7 +19,9 @@ class Vacancy:
         """Возвращает вакансии по номеру айди работодателя"""
         try:
             vacancy = []
+
             while True:
+
                 for page in range(0, 100):
                     params = {
                         "employer_id": f"{self.id_employer}",
@@ -25,7 +30,11 @@ class Vacancy:
                     }
                     vacancy.extend(requests.get(API_URL_HH_2, params=params).json()['items'])
                     time.sleep(0.22)
-                    return vacancy
+
+                with open(self.__file_path, "w", encoding="utf-8") as f:
+                    json.dump(vacancy, f, ensure_ascii=False, indent=4)
+
+                return vacancy
         except requests.exceptions.ConnectTimeout:
             print('Oops. Connection timeout occurred!')
         except requests.exceptions.ReadTimeout:
@@ -39,6 +48,7 @@ class Vacancy:
     def put_vacancies_in_list(self):
         """Записывает найденные вакансии с нужными ключами в список словарей"""
         list_vacancy = []
+
         for i in range(len(self.get_vacancy)):
             salary_from = 0 if (self.get_vacancy[i]['salary'] is None or self.get_vacancy[i]['salary']['from'] == 0 or
                                 self.get_vacancy[i]['salary']['from'] is None) else self.get_vacancy[i]['salary'][

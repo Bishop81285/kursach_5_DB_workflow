@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/837491.png",
+            "240": "https://hhcdn.ru/employer-logo/3790848.png",
+            "90": "https://hhcdn.ru/employer-logo/3790847.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "open_vacancies": 4808
+    },
+    {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/1121425.jpg",
+            "240": "https://hhcdn.ru/employer-logo/6106294.jpeg",
+            "90": "https://hhcdn.ru/employer-logo/6106293.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "open_vacancies": 3326
+    },
+    {
+        "id": "9498112",
+        "name": "Яндекс Крауд",
+        "url": "https://api.hh.ru/employers/9498112",
+        "alternate_url": "https://hh.ru/employer/9498112",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498112",
+        "open_vacancies": 7474
+    },
+    {
+        "id": "5008932",
+        "name": "Яндекс Практикум",
+        "url": "https://api.hh.ru/employers/5008932",
+        "alternate_url": "https://hh.ru/employer/5008932",
+        "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/900953.png",
+            "240": "https://hhcdn.ru/employer-logo/4044500.png",
+            "90": "https://hhcdn.ru/employer-logo/4044499.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5008932",
+        "open_vacancies": 27
+    }
+]

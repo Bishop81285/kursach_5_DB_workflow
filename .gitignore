@@ -123,6 +123,7 @@ celerybeat.pid
 
 # Environments
 .env
+database.ini
 .venv
 env/
 venv/
